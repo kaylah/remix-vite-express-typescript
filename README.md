@@ -4,11 +4,12 @@
 
 ## Development
 
-Run the Express server with Vite dev middleware:
+1. Copy `.env.template` to create `.env` file & populate with correct values
 
-```shellscript
-npm run dev
-```
+2. Run the Express server with Vite dev middleware:
+   ```shellscript
+   npm run dev
+   ```
 
 ## Deployment
 
